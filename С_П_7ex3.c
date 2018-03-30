@@ -1,11 +1,11 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main(void)
 {
 float a, b, resc=.0, resn=.0;
 int kolc, koln, e=1;
 
-printf("laalla\n");
+printf("Введите числа\n");
 
 while (e != 0) {
     scanf ("%i", &e);
